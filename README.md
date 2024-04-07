@@ -10,8 +10,9 @@ Experience the convenience of managing your inventory effortlessly with Retail R
  * Material UI
 
 ### 📷Screenshots:
-![image](https://github.com/Mirthhh08/Admin-Dashboard/assets/92306499/be4ca205-6636-41a9-99fd-55a9cd1b228a)
-![image](https://github.com/Mirthhh08/Admin-Dashboard/assets/92306499/04136164-c923-4271-88da-527af036b8a4)
-![image](https://github.com/Mirthhh08/Admin-Dashboard/assets/92306499/39a2f25a-c238-4727-9493-082a4608421d)
-![image](https://github.com/Mirthhh08/Admin-Dashboard/assets/92306499/878b725d-acda-4da6-861d-051415788e81)
-![image](https://github.com/Mirthhh08/Admin-Dashboard/assets/92306499/6324dda9-ee5a-45ba-a32c-d4e2ea919e15)
+![image](https://github.com/Mirthhh08/Admin-Dashboard/assets/92306499/784014ea-5dfd-490e-b46c-b84c578f33a9)
+![image](https://github.com/Mirthhh08/Admin-Dashboard/assets/92306499/18a94aa0-bc18-43ff-90ae-37ad2c182179)
+![image](https://github.com/Mirthhh08/Admin-Dashboard/assets/92306499/8fba2603-eebb-449d-90c4-baebc6d2b047)
+![image](https://github.com/Mirthhh08/Admin-Dashboard/assets/92306499/22b28a2a-9df0-4439-9ced-e8aa7f4cc84c)
+
+
