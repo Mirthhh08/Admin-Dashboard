@@ -1,0 +1,125 @@
+{
+    "categories": {
+      "writing_instruments": {
+        "sub_categories": {
+          "pens": {
+            "sub_categories": ["Ballpoint Pens", "Gel Pens", "Fountain Pens"],
+            "units": "piece"
+          },
+          "pencils": {
+            "sub_categories": ["Mechanical Pencils", "Wooden Pencils"],
+            "units": "piece"
+          },
+          "markers": {
+            "sub_categories": ["Permanent Markers", "Highlighters"],
+            "units": "piece"
+          },
+          "chalk": {
+            "sub_categories": ["White Chalk", "Color Chalk"],
+            "units": "box"
+          }
+        }
+      },
+      "paper_products": {
+        "sub_categories": {
+          "notebooks": {
+            "sub_categories": ["Spiral Notebooks", "Composition Notebooks"],
+            "units": "piece"
+          },
+          "writing_pads": {
+            "sub_categories": ["Legal Pads", "Grid Pads"],
+            "units": "piece"
+          },
+          "sticky_notes": {
+            "sub_categories": ["Regular Sticky Notes", "Shaped Sticky Notes"],
+            "units": "pack"
+          },
+          "envelopes": {
+            "sub_categories": ["Business Envelopes", "Greeting Card Envelopes"],
+            "units": "pack"
+          }
+        }
+      },
+      "office_supplies": {
+        "sub_categories": {
+          "binders": {
+            "sub_categories": ["Ring Binders", "Report Covers"],
+            "units": "piece"
+          },
+          "folders": {
+            "sub_categories": ["Manila Folders", "Plastic Folders"],
+            "units": "piece"
+          },
+          "staplers": {
+            "sub_categories": ["Desktop Staplers", "Heavy-Duty Staplers"],
+            "units": "piece"
+          },
+          "tape": {
+            "sub_categories": ["Clear Tape", "Masking Tape"],
+            "units": "roll"
+          }
+        }
+      },
+      "art_supplies": {
+        "sub_categories": {
+          "paints": {
+            "sub_categories": ["Watercolor Paints", "Acrylic Paints"],
+            "units": "tube"
+          },
+          "brushes": {
+            "sub_categories": ["Round Brushes", "Flat Brushes"],
+            "units": "pack"
+          },
+          "canvas": {
+            "sub_categories": ["Stretched Canvas", "Canvas Panels"],
+            "units": "piece"
+          },
+          "sketchbooks": {
+            "sub_categories": ["Hardbound Sketchbooks", "Spiral Sketchbooks"],
+            "units": "piece"
+          }
+        }
+      },
+      "school_supplies": {
+        "sub_categories": {
+          "backpacks": {
+            "sub_categories": ["School Backpacks", "Laptop Backpacks"],
+            "units": "piece"
+          },
+          "lunch_boxes": {
+            "sub_categories": ["Plastic Lunch Boxes", "Stainless Steel Lunch Boxes"],
+            "units": "piece"
+          },
+          "calculators": {
+            "sub_categories": ["Scientific Calculators", "Graphing Calculators"],
+            "units": "piece"
+          },
+          "rulers": {
+            "sub_categories": ["Plastic Rulers", "Metal Rulers"],
+            "units": "piece"
+          }
+        }
+      },
+      "craft_supplies": {
+        "sub_categories": {
+          "glue": {
+            "sub_categories": ["Liquid Glue", "Glue Sticks"],
+            "units": "bottle"
+          },
+          "scissors": {
+            "sub_categories": ["Craft Scissors", "Fabric Scissors"],
+            "units": "pair"
+          },
+          "craft_paper": {
+            "sub_categories": ["Origami Paper", "Colored Construction Paper"],
+            "units": "pack"
+          },
+          "beads": {
+            "sub_categories": ["Glass Beads", "Wooden Beads"],
+            "units": "pack"
+          }
+        }
+      }
+    }
+  }
+  

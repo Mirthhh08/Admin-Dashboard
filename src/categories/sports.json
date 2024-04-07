@@ -1,0 +1,125 @@
+{
+    "categories": {
+      "fitness_equipment": {
+        "sub_categories": {
+          "cardio_machines": {
+            "sub_categories": ["Treadmills", "Elliptical Trainers", "Stationary Bikes"],
+            "units": "unit"
+          },
+          "strength_training": {
+            "sub_categories": ["Dumbbells", "Kettlebells", "Barbells"],
+            "units": "pair"
+          },
+          "exercise_benches": {
+            "sub_categories": ["Flat Benches", "Adjustable Benches"],
+            "units": "unit"
+          },
+          "yoga_accessories": {
+            "sub_categories": ["Yoga Mats", "Yoga Blocks", "Yoga Straps"],
+            "units": "unit"
+          }
+        }
+      },
+      "sports_gear": {
+        "sub_categories": {
+          "balls": {
+            "sub_categories": ["Football", "Basketball", "Tennis Ball"],
+            "units": "unit"
+          },
+          "rackets": {
+            "sub_categories": ["Tennis Rackets", "Badminton Rackets", "Squash Rackets"],
+            "units": "unit"
+          },
+          "protective_gear": {
+            "sub_categories": ["Helmets", "Shin Guards", "Protective Pads"],
+            "units": "set"
+          },
+          "sports_clothing": {
+            "sub_categories": ["Jerseys", "Shorts", "Compression Wear"],
+            "units": "piece"
+          }
+        }
+      },
+      "outdoor_activities": {
+        "sub_categories": {
+          "camping_gear": {
+            "sub_categories": ["Tents", "Sleeping Bags", "Camp Stoves"],
+            "units": "unit"
+          },
+          "hiking_accessories": {
+            "sub_categories": ["Backpacks", "Hiking Boots", "Walking Poles"],
+            "units": "unit"
+          },
+          "fishing_supplies": {
+            "sub_categories": ["Fishing Rods", "Fishing Reels", "Fishing Lures"],
+            "units": "unit"
+          },
+          "cycling_gear": {
+            "sub_categories": ["Bicycles", "Helmets", "Bike Lights"],
+            "units": "unit"
+          }
+        }
+      },
+      "team_sports": {
+        "sub_categories": {
+          "soccer": {
+            "sub_categories": ["Soccer Balls", "Soccer Goals", "Soccer Cleats"],
+            "units": "unit"
+          },
+          "basketball": {
+            "sub_categories": ["Basketballs", "Basketball Hoops", "Basketball Shoes"],
+            "units": "unit"
+          },
+          "volleyball": {
+            "sub_categories": ["Volleyballs", "Volleyball Nets", "Volleyball Shoes"],
+            "units": "unit"
+          },
+          "baseball": {
+            "sub_categories": ["Baseballs", "Baseball Bats", "Baseball Gloves"],
+            "units": "unit"
+          }
+        }
+      },
+      "water_sports": {
+        "sub_categories": {
+          "swimming_gear": {
+            "sub_categories": ["Swimsuits", "Goggles", "Swim Caps"],
+            "units": "piece"
+          },
+          "surfing_gear": {
+            "sub_categories": ["Surfboards", "Wetsuits", "Surf Wax"],
+            "units": "unit"
+          },
+          "kayaking_gear": {
+            "sub_categories": ["Kayaks", "Paddles", "Life Jackets"],
+            "units": "unit"
+          },
+          "diving_gear": {
+            "sub_categories": ["Scuba Tanks", "Dive Masks", "Fins"],
+            "units": "set"
+          }
+        }
+      },
+      "indoor_games": {
+        "sub_categories": {
+          "table_tennis": {
+            "sub_categories": ["Table Tennis Tables", "Table Tennis Rackets", "Table Tennis Balls"],
+            "units": "unit"
+          },
+          "billiards": {
+            "sub_categories": ["Pool Tables", "Cue Sticks", "Billiard Balls"],
+            "units": "unit"
+          },
+          "darts": {
+            "sub_categories": ["Dartboards", "Darts", "Dart Flights"],
+            "units": "unit"
+          },
+          "board_games": {
+            "sub_categories": ["Chess Sets", "Monopoly", "Scrabble"],
+            "units": "unit"
+          }
+        }
+      }
+    }
+  }
+  

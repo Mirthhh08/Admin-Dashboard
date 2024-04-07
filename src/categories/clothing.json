@@ -1,0 +1,133 @@
+{
+    "categories": {
+      "men": {
+        "sub_categories": {
+          "t-shirts": {
+            "sub_categories": ["Round Neck", "V-Neck", "Polo"],
+            "units": "piece"
+          },
+          "shirts": {
+            "sub_categories": ["Formal", "Casual", "Party Wear"],
+            "units": "piece"
+          },
+          "trousers": {
+            "sub_categories": ["Jeans", "Chinos", "Formal Pants"],
+            "units": "piece"
+          },
+          "shorts": {
+            "sub_categories": ["Denim", "Cargo", "Sports"],
+            "units": "piece"
+          },
+          "jackets": {
+            "sub_categories": ["Leather", "Denim", "Bomber"],
+            "units": "piece"
+          },
+          "suits": {
+            "sub_categories": ["Single Breasted", "Double Breasted", "Three Piece"],
+            "units": "set"
+          },
+          "ethnic_wear": {
+            "sub_categories": ["Kurta", "Sherwani", "Dhoti"],
+            "units": "piece"
+          },
+          "undergarments": {
+            "sub_categories": ["Boxers", "Briefs", "Vests"],
+            "units": "piece"
+          },
+          "ties": {
+            "sub_categories": ["Silk", "Polyester", "Knit"],
+            "units": "piece"
+          }
+        }
+      },
+      "women": {
+        "sub_categories": {
+          "tops": {
+            "sub_categories": ["Blouses", "Tank Tops", "Crop Tops"],
+            "units": "piece"
+          },
+          "dresses": {
+            "sub_categories": ["Maxi Dresses", "Sundresses", "Cocktail Dresses"],
+            "units": "piece"
+          },
+          "skirts": {
+            "sub_categories": ["Mini Skirts", "Midi Skirts", "Maxi Skirts"],
+            "units": "piece"
+          },
+          "trousers": {
+            "sub_categories": ["Leggings", "Palazzos", "Culottes"],
+            "units": "piece"
+          },
+          "shorts": {
+            "sub_categories": ["Denim Shorts", "Casual Shorts", "Sports Shorts"],
+            "units": "piece"
+          },
+          "jackets": {
+            "sub_categories": ["Blazers", "Leather Jackets", "Bomber Jackets"],
+            "units": "piece"
+          },
+          "ethnic_wear": {
+            "sub_categories": ["Saree", "Salwar Kameez", "Lehenga Choli"],
+            "units": "piece"
+          },
+          "undergarments": {
+            "sub_categories": ["Bras", "Panties", "Camisoles"],
+            "units": "piece"
+          },
+          "scarves": {
+            "sub_categories": ["Silk Scarves", "Woolen Scarves", "Infinity Scarves"],
+            "units": "piece"
+          }
+        }
+      },
+      "kids": {
+        "sub_categories": {
+          "boys": {
+            "sub_categories": ["T-shirts", "Shirts", "Trousers", "Shorts", "Jackets", "Ethnic Wear"],
+            "units": "piece"
+          },
+          "girls": {
+            "sub_categories": ["Tops", "Dresses", "Skirts", "Trousers", "Shorts", "Jackets", "Ethnic Wear"],
+            "units": "piece"
+          },
+          "infants": {
+            "sub_categories": ["Onesies", "Bodysuits", "Sleepsuits", "Romper"],
+            "units": "piece"
+          },
+          "undergarments": {
+            "sub_categories": ["Diapers", "Bibs", "Baby Socks"],
+            "units": "piece"
+          }
+        }
+      },
+      "accessories": {
+        "sub_categories": {
+          "hats": {
+            "sub_categories": ["Baseball Caps", "Beanies", "Bucket Hats"],
+            "units": "piece"
+          },
+          "scarves": {
+            "sub_categories": ["Silk Scarves", "Woolen Scarves", "Infinity Scarves"],
+            "units": "piece"
+          },
+          "gloves": {
+            "sub_categories": ["Leather Gloves", "Knit Gloves", "Touchscreen Gloves"],
+            "units": "pair"
+          },
+          "belts": {
+            "sub_categories": ["Leather Belts", "Fabric Belts", "Braided Belts"],
+            "units": "piece"
+          },
+          "sunglasses": {
+            "sub_categories": ["Aviator", "Wayfarer", "Round"],
+            "units": "piece"
+          },
+          "bags": {
+            "sub_categories": ["Handbags", "Backpacks", "Messenger Bags"],
+            "units": "piece"
+          }
+        }
+      }
+    }
+  }
+  

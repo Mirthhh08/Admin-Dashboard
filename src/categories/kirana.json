@@ -1,0 +1,97 @@
+{
+    "categories": {
+      "salt": {
+        "sub_categories": ["Table Salt", "Rock Salt", "Sea Salt"],
+        "units": "grams"
+      },
+      "dal": {
+        "sub_categories": ["Masoor Dal", "Moong Dal", "Toor Dal"],
+        "units": "kg"
+      },
+      "rice": {
+        "sub_categories": ["Basmati Rice", "Brown Rice", "White Rice"],
+        "units": "kg"
+      },
+      "rajma": {
+        "sub_categories": ["Red Rajma", "White Rajma"],
+        "units": "grams"
+      },
+      "spices": {
+        "sub_categories": {
+          "chilli": {
+            "sub_categories": ["Red Chilli Powder", "Green Chilli"],
+            "units": "grams"
+          },
+          "dhaniya": {
+            "sub_categories": ["Coriander Powder", "Coriander Seeds"],
+            "units": "grams"
+          },
+          "other_spices": {
+            "sub_categories": ["Turmeric Powder", "Cumin Seeds", "Garam Masala"],
+            "units": "grams"
+          }
+        }
+      },
+      "other_items": {
+        "sub_categories": ["Sugar", "Tea Leaves", "Coffee Powder"],
+        "units": "unit"
+      },
+      "biscuits": {
+        "sub_categories": ["Marie Gold", "Oreo", "Hide & Seek", "Good Day"],
+        "units": "packet"
+      },
+      "beverages": {
+        "sub_categories": ["Coca-Cola", "Pepsi", "Sprite", "Frooti", "Maaza", "Thums Up"],
+        "units": "bottle"
+      },
+      "snacks": {
+        "sub_categories": ["Lays Chips", "Kurkure", "Haldiram's Namkeen", "Bingo", "Doritos"],
+        "units": "packet"
+      },
+      "canned_food": {
+        "sub_categories": ["Canned Beans", "Canned Soup", "Canned Tuna", "Canned Vegetables"],
+        "units": "can"
+      },
+      "dairy_products": {
+        "sub_categories": ["Milk", "Butter", "Cheese", "Yogurt", "Paneer"],
+        "units": "packet"
+      },
+      "personal_care": {
+        "sub_categories": ["Shampoo", "Soap", "Toothpaste", "Shaving Cream", "Deodorant", "Hair Oil"],
+        "units": "unit"
+      },
+      "cleaning_supplies": {
+        "sub_categories": ["Dish Soap", "Laundry Detergent", "All-Purpose Cleaner", "Bathroom Cleaner"],
+        "units": "bottle"
+      },
+      "frozen_foods": {
+        "sub_categories": ["Frozen Pizza", "Frozen Vegetables", "Frozen Fruits", "Frozen Desserts"],
+        "units": "packet"
+      },
+      "condiments": {
+        "sub_categories": ["Ketchup", "Mayonnaise", "Mustard", "Soy Sauce"],
+        "units": "bottle"
+      },
+      "bread": {
+        "sub_categories": ["White Bread", "Whole Wheat Bread", "Multigrain Bread", "Baguette"],
+        "units": "loaf"
+      },
+      "cereals": {
+        "sub_categories": ["Corn Flakes", "Rice Krispies", "Wheaties", "Cheerios"],
+        "units": "packet"
+      },
+      "pasta": {
+        "sub_categories": ["Spaghetti", "Fettuccine", "Penne", "Rotini"],
+        "units": "packet"
+      },
+      "canned_beverages": {
+        "sub_categories": ["Canned Coffee", "Canned Tea", "Energy Drinks", "Carbonated Water"],
+        "units": "can"
+      },
+      "baby_products": {
+        "sub_categories": ["Baby Food", "Diapers", "Baby Wipes", "Baby Shampoo"],
+        "units": "unit"
+      }
+    }
+  }
+  

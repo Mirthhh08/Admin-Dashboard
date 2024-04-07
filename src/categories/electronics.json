@@ -1,0 +1,59 @@
+{
+    "categories": {
+      "smartphones": {
+        "items": [
+          {"brand": "Apple", "model": "iPhone 13 Pro", "storage": "256GB", "color": "Graphite", "price": 999.99, "units": "unit"},
+          {"brand": "Samsung", "model": "Galaxy S21 Ultra", "storage": "128GB", "color": "Phantom Black", "price": 1199.99, "units": "unit"},
+          {"brand": "OnePlus", "model": "9 Pro", "storage": "256GB", "color": "Morning Mist", "price": 1099.99, "units": "unit"},
+          {"brand": "Google", "model": "Pixel 6 Pro", "storage": "128GB", "color": "Stormy Black", "price": 899.99, "units": "unit"},
+          {"brand": "Xiaomi", "model": "Mi 11", "storage": "256GB", "color": "Horizon Blue", "price": 799.99, "units": "unit"}
+        ]
+      },
+      "laptops": {
+        "items": [
+          {"brand": "Apple", "model": "MacBook Pro", "processor": "M1 Pro", "storage": "512GB SSD", "price": 1999.99, "units": "unit"},
+          {"brand": "Dell", "model": "XPS 15", "processor": "Intel Core i7", "storage": "1TB SSD", "price": 1699.99, "units": "unit"},
+          {"brand": "HP", "model": "Spectre x360", "processor": "Intel Core i5", "storage": "256GB SSD", "price": 1299.99, "units": "unit"},
+          {"brand": "Lenovo", "model": "ThinkPad X1 Carbon", "processor": "Intel Core i7", "storage": "512GB SSD", "price": 1499.99, "units": "unit"},
+          {"brand": "ASUS", "model": "ZenBook 14", "processor": "AMD Ryzen 7", "storage": "512GB SSD", "price": 999.99, "units": "unit"}
+        ]
+      },
+      "tablets": {
+        "items": [
+          {"brand": "Apple", "model": "iPad Air", "storage": "64GB", "color": "Silver", "price": 599.99, "units": "unit"},
+          {"brand": "Samsung", "model": "Galaxy Tab S7", "storage": "128GB", "color": "Mystic Bronze", "price": 649.99, "units": "unit"},
+          {"brand": "Amazon", "model": "Fire HD 10", "storage": "32GB", "color": "Black", "price": 149.99, "units": "unit"},
+          {"brand": "Microsoft", "model": "Surface Pro 8", "storage": "256GB", "color": "Platinum", "price": 1099.99, "units": "unit"},
+          {"brand": "Lenovo", "model": "Tab P11", "storage": "128GB", "color": "Slate Grey", "price": 299.99, "units": "unit"}
+        ]
+      },
+      "headphones": {
+        "items": [
+          {"brand": "Sony", "model": "WH-1000XM4", "type": "Over-Ear", "color": "Black", "price": 349.99, "units": "unit"},
+          {"brand": "Apple", "model": "AirPods Pro", "type": "In-Ear", "color": "White", "price": 249.99, "units": "unit"},
+          {"brand": "Bose", "model": "QuietComfort Earbuds", "type": "True Wireless", "color": "Soapstone", "price": 279.99, "units": "unit"},
+          {"brand": "Jabra", "model": "Elite 85t", "type": "True Wireless", "color": "Gold/Beige", "price": 229.99, "units": "unit"},
+          {"brand": "Sennheiser", "model": "Momentum 3 Wireless", "type": "Over-Ear", "color": "Sandy White", "price": 399.99, "units": "unit"}
+        ]
+      },
+      "televisions": {
+        "items": [
+          {"brand": "LG", "model": "OLED65C1PUB", "size": "65 inches", "resolution": "4K Ultra HD", "price": 1999.99, "units": "unit"},
+          {"brand": "Samsung", "model": "QN85A", "size": "75 inches", "resolution": "8K Ultra HD", "price": 3999.99, "units": "unit"},
+          {"brand": "Sony", "model": "X90J", "size": "55 inches", "resolution": "4K Ultra HD", "price": 1499.99, "units": "unit"},
+          {"brand": "TCL", "model": "6-Series", "size": "55 inches", "resolution": "4K Ultra HD", "price": 699.99, "units": "unit"},
+          {"brand": "Hisense", "model": "U7G", "size": "65 inches", "resolution": "4K Ultra HD", "price": 899.99, "units": "unit"}
+        ]
+      },
+      "appliances": {
+        "items": [
+          {"category": "Refrigerator", "brand": "Whirlpool", "model": "French Door", "capacity": "25 cu. ft.", "price": 1999.99, "units": "unit"},
+          {"category": "Washing Machine", "brand": "Samsung", "model": "Front Load", "capacity": "4.5 cu. ft.", "price": 999.99, "units": "unit"},
+          {"category": "Vacuum Cleaner", "brand": "Dyson", "model": "V11 Torque Drive", "type": "Cordless", "price": 599.99, "units": "unit"},
+          {"category": "Microwave", "brand": "Panasonic", "model": "Countertop", "capacity": "1.6 cu. ft.", "price": 149.99, "units": "unit"},
+          {"category": "Air Purifier", "brand": "Honeywell", "model": "True HEPA", "coverage": "465 sq. ft.", "price": 199.99, "units": "unit"}
+        ]
+      }
+    }
+  }
+  

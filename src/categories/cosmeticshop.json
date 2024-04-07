@@ -1,0 +1,80 @@
+{
+    "categories": {
+      "makeup": {
+        "sub_categories": {
+          "foundation": {
+            "items": [
+              {"name": "Liquid Foundation", "brand": "Maybelline", "shade": "Natural Beige", "price": 12.99, "units": "unit"},
+              {"name": "Compact Powder", "brand": "L'Oréal", "shade": "Light", "price": 9.99, "units": "unit"},
+              {"name": "BB Cream", "brand": "Garnier", "shade": "Medium", "price": 8.49, "units": "unit"}
+            ]
+          },
+          "lipstick": {
+            "items": [
+              {"name": "Matte Lipstick", "brand": "MAC", "shade": "Ruby Woo", "price": 17.99, "units": "unit"},
+              {"name": "Glossy Lipstick", "brand": "Revlon", "shade": "Pink Cognito", "price": 10.99, "units": "unit"},
+              {"name": "Liquid Lipstick", "brand": "NYX", "shade": "Copenhagen", "price": 8.99, "units": "unit"}
+            ]
+          },
+          "eyeshadow": {
+            "items": [
+              {"name": "Eyeshadow Palette", "brand": "Urban Decay", "shade": "Naked", "price": 49.99, "units": "unit"},
+              {"name": "Single Eyeshadow", "brand": "ColourPop", "shade": "Champagne", "price": 5.99, "units": "unit"},
+              {"name": "Cream Eyeshadow", "brand": "Maybelline", "shade": "Bad to the Bronze", "price": 7.49, "units": "unit"}
+            ]
+          },
+          "mascara": {
+            "items": [
+              {"name": "Volumizing Mascara", "brand": "L'Oréal", "type": "Waterproof", "price": 11.99, "units": "unit"},
+              {"name": "Lengthening Mascara", "brand": "Maybelline", "type": "Non-waterproof", "price": 10.49, "units": "unit"}
+            ]
+          }
+        }
+      },
+      "skincare": {
+        "sub_categories": {
+          "cleansers": {
+            "items": [
+              {"name": "Foaming Cleanser", "brand": "Neutrogena", "skin_type": "Normal to Oily", "price": 8.99, "units": "unit"},
+              {"name": "Cream Cleanser", "brand": "Cetaphil", "skin_type": "Sensitive", "price": 10.49, "units": "unit"}
+            ]
+          },
+          "moisturizers": {
+            "items": [
+              {"name": "Day Moisturizer", "brand": "Olay", "skin_type": "Dry", "price": 14.99, "units": "unit"},
+              {"name": "Night Cream", "brand": "L'Oréal", "skin_type": "Combination", "price": 16.49, "units": "unit"}
+            ]
+          },
+          "serums": {
+            "items": [
+              {"name": "Vitamin C Serum", "brand": "The Ordinary", "benefit": "Brightening", "price": 9.99, "units": "unit"},
+              {"name": "Hyaluronic Acid Serum", "brand": "Hada Labo", "benefit": "Hydrating", "price": 12.49, "units": "unit"}
+            ]
+          }
+        }
+      },
+      "haircare": {
+        "sub_categories": {
+          "shampoo": {
+            "items": [
+              {"name": "Repairing Shampoo", "brand": "Pantene", "hair_type": "Damaged", "price": 7.99, "units": "unit"},
+              {"name": "Moisturizing Shampoo", "brand": "Herbal Essences", "hair_type": "Dry", "price": 6.49, "units": "unit"}
+            ]
+          },
+          "conditioner": {
+            "items": [
+              {"name": "Smoothing Conditioner", "brand": "Garnier Fructis", "hair_type": "Frizzy", "price": 8.99, "units": "unit"},
+              {"name": "Volume Conditioner", "brand": "TRESemmé", "hair_type": "Flat", "price": 7.49, "units": "unit"}
+            ]
+          },
+          "styling_products": {
+            "items": [
+              {"name": "Hair Gel", "brand": "Garnier Fructis", "type": "Strong Hold", "price": 6.99, "units": "unit"},
+              {"name": "Hair Spray", "brand": "L'Oréal", "type": "Flexible Hold", "price": 9.49, "units": "unit"}
+            ]
+          }
+        }
+      }
+    }
+  }
+  
